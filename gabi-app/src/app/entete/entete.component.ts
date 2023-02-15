@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class EnteteComponent {
 
+  titre:String = " Gabi's Robust Administration";
+
 }
